@@ -1,0 +1,7 @@
+{
+  "knex": {
+    "connection": {
+      "database": "pursume_test"
+    }
+  }
+}
